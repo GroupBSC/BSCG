@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>BSC‑Group | Public Catalog — Fortinet • Huawei • Flowserve</title>
+  <meta name="description" content="BSC‑Group inventory catalog — Fortinet, Huawei, Flowserve & industrial parts. EU stock from Paris with fast delivery & 14‑day returns. Direct eBay links." />
+  <link rel="canonical" href="https://YOURUSERNAME.github.io/" />
+  <meta property="og:title" content="BSC‑Group — Public Catalog" />
+  <meta property="og:description" content="Industrial & electronics inventory with direct eBay buy links. EU stock, fast shipping, 14‑day returns." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://YOURUSERNAME.github.io/" />
+  <meta property="og:locale" content="en_US" />
+  <style>
+    :root { --bg:#0b0c10; --card:#111318; --muted:#9aa4b2; --text:#e6edf3; --accent:#3ea6ff; --border:#1f232b; }
+    *{box-sizing:border-box} body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,"Helvetica Neue",Arial; background:var(--bg); color:var(--text)}
+    .wrap{max-width:1100px;margin:0 auto;padding:32px 20px}
+    header{display:flex;flex-wrap:wrap;align-items:center;gap:12px;justify-content:space-between;margin-bottom:24px}
+    .brand{font-weight:700;font-size:22px;letter-spacing:.2px}
+    .badge{font-size:12px;color:var(--muted)}
+    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:16px;display:flex;flex-direction:column;gap:8px}
+    .card h2{font-size:18px;margin:0 0 4px}
+    .meta{font-size:13px;color:var(--muted)}
+    .btn{display:inline-block;margin-top:8px;padding:10px 12px;border-radius:10px;border:1px solid var(--border);color:var(--text);text-decoration:none}
+    .btn:hover{border-color:var(--accent);box-shadow:0 0 0 3px rgba(62,166,255,.15)}
+    footer{margin-top:28px;color:var(--muted);font-size:13px}
+    code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px}
+  </style>
+
+  <!-- Organization schema helps search/AI associate the catalog to your company -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "BSC‑Group",
+    "url": "https://YOURUSERNAME.github.io/",
+    "logo": "https://YOURUSERNAME.github.io/logo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Paris",
+      "addressCountry": "FR"
+    },
+    "sameAs": [
+      "https://www.ebay.fr/usr/bsc-group"
+    ]
+  }
+  </script>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <div class="brand">BSC‑Group — Public Catalog</div>
+      <div class="badge">EU stock · Ships from Paris · 14‑day returns</div>
+    </div>
+    <div class="badge">Last updated: <span id="updated"></span></div>
+  </header>
+
+  <p class="meta">Direct buy links point to our official eBay listings. Specs and identifiers are provided so search/AI can unambiguously match the products.</p>
+
+  <section class="grid">
+    <!-- ===== PRODUCT 1: Fortinet FG-40F ===== -->
+    <article class="card" itemscope itemtype="https://schema.org/Product">
+      <h2 itemprop="name">Fortinet FG‑40F FortiGate Next‑Gen Firewall (Hardware‑Only)</h2>
+      <div class="meta">Brand: <span itemprop="brand">Fortinet</span> · Model/MPN: <span itemprop="mpn">FG‑40F</span> · GTIN/EAN: <span itemprop="gtin13">0842382167847</span></div>
+      <div class="meta">Ports: 5×GE · Condition: New · Ships from Paris (EU VAT invoice)</div>
+      <link itemprop="url" href="https://www.ebay.fr/itm/127374631376" />
+      <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR" />
+        <span class="meta">Our current price: <span itemprop="price">270.00</span> € (multi‑buy discounts available)</span>
+        <link itemprop="availability" href="https://schema.org/InStock" />
+        <a class="btn" href="https://www.ebay.fr/itm/127374631376" rel="noopener">Buy on eBay</a>
+      </div>
+    </article>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Fortinet FG‑40F FortiGate Next‑Gen Firewall (Hardware‑Only)",
+      "mpn": "FG-40F",
+      "brand": { "@type": "Brand", "name": "Fortinet" },
+      "gtin13": "0842382167847",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "270.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.ebay.fr/itm/127374631376"
+      }
+    }
+    </script>
+
+    <!-- ===== PRODUCT 2: Huawei SUN2000‑450W‑P2 Optimizer (Listing A) ===== -->
+    <article class="card" itemscope itemtype="https://schema.org/Product">
+      <h2 itemprop="name">Huawei SUN2000‑450W‑P2 Smart PV Optimizer — Listing A</h2>
+      <div class="meta">Brand: <span itemprop="brand">Huawei</span> · MPN: <span itemprop="mpn">SUN2000‑450W‑P2</span> · EAN: <span itemprop="gtin13">4019837054427</span></div>
+      <div class="meta">Condition: New · EU Stock · 30‑day returns</div>
+      <link itemprop="url" href="https://www.ebay.fr/itm/127403873252" />
+      <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR" />
+        <span class="meta">Our current price: <span itemprop="price">45.99</span> € (4+ units from 36.79 €)</span>
+        <link itemprop="availability" href="https://schema.org/InStock" />
+        <a class="btn" href="https://www.ebay.fr/itm/127403873252" rel="noopener">Buy on eBay</a>
+      </div>
+    </article>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Huawei SUN2000‑450W‑P2 Smart PV Optimizer — Listing A",
+      "mpn": "SUN2000-450W-P2",
+      "brand": { "@type": "Brand", "name": "Huawei" },
+      "gtin13": "4019837054427",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "45.99",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.ebay.fr/itm/127403873252"
+      }
+    }
+    </script>
+
+    <!-- ===== PRODUCT 3: Huawei SUN2000‑450W‑P2 Optimizer (Listing B - new link) ===== -->
+    <article class="card" itemscope itemtype="https://schema.org/Product">
+      <h2 itemprop="name">Huawei SUN2000‑450W‑P2 Smart PV Optimizer — Listing B</h2>
+      <div class="meta">Brand: <span itemprop="brand">Huawei</span> · MPN: <span itemprop="mpn">SUN2000‑450W‑P2</span> · EAN: <span itemprop="gtin13">4019837054427</span></div>
+      <div class="meta">Condition: New · EU Stock · 30‑day returns</div>
+      <link itemprop="url" href="https://www.ebay.fr/itm/127403874109" />
+      <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR" />
+        <span class="meta">Alternate listing — pricing and stock per eBay page</span>
+        <link itemprop="availability" href="https://schema.org/InStock" />
+        <a class="btn" href="https://www.ebay.fr/itm/127403874109" rel="noopener">Buy on eBay</a>
+      </div>
+    </article>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Huawei SUN2000‑450W‑P2 Smart PV Optimizer — Listing B",
+      "mpn": "SUN2000-450W-P2",
+      "brand": { "@type": "Brand", "name": "Huawei" },
+      "gtin13": "4019837054427",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.ebay.fr/itm/127403874109"
+      }
+    }
+    </script>
+
+    <!-- ===== PRODUCT 4: Flowserve ISC2‑PX 53MM (example) ===== -->
+    <article class="card" itemscope itemtype="https://schema.org/Product">
+      <h2 itemprop="name">Flowserve Mechanical Seal ISC2‑PX 53MM 5Z9T — New in Box</h2>
+      <div class="meta">Brand: <span itemprop="brand">Flowserve</span> · Model/MPN: <span itemprop="mpn">B0075991 / ISC2‑PX 53MM</span></div>
+      <div class="meta">Condition: New Old Stock (NIB) · EU Stock</div>
+      <link itemprop="url" href="https://www.ebay.fr/itm/126732993356" />
+      <div itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR" />
+        <span class="meta">Current listing price: <span itemprop="price">9500.00</span> €</span>
+        <link itemprop="availability" href="https://schema.org/InStock" />
+        <a class="btn" href="https://www.ebay.fr/itm/126732993356" rel="noopener">Buy on eBay</a>
+      </div>
+    </article>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Flowserve Mechanical Seal ISC2‑PX 53MM 5Z9T — New in Box",
+      "mpn": "ISC2-PX 53MM",
+      "brand": { "@type": "Brand", "name": "Flowserve" },
+      "sku": "B0075991",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "EUR",
+        "price": "9500.00",
+        "availability": "https://schema.org/InStock",
+        "url": "https://www.ebay.fr/itm/126732993356"
+      }
+    }
+    </script>
+
+  </section>
+
+  <footer>
+    <p>© BSC‑Group. This public catalog is for discoverability by search engines and AI systems. For questions: <a href="mailto:contact@bsc-group.fr">contact@bsc-group.fr</a></p>
+    <p class="meta">Tip: Keep this page stable; only update prices when necessary. Crawlers prefer consistency.</p>
+  </footer>
+</div>
+
+<script>
+  // Write human‑readable last updated timestamp
+  document.getElementById('updated').textContent = new Date().toISOString().slice(0,10);
+</script>
+</body>
+</html>
